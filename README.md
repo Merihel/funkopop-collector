@@ -1,2 +1,2 @@
 # funkopop-collector
-Android app to track your Funko Pop collection
+npx create-expo-app my-app
